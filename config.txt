@@ -1,0 +1,7 @@
+owner=579808920873467904
+prefix= 16
+game=Type 16help
+stayinchannel=true
+songinstatus=false
+token=NTgyNzU5MzE3MDMyMTQwODAw.XOy1RA.25h99kyhRmP8GGI5PyMh3Y_gWPo
+
